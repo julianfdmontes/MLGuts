@@ -26,7 +26,6 @@ class LinearRegression:
         :params y: y Train.
         '''
         n_samples, n_features = X.shape
-
         # Iniciamos 
         self.weights = np.zeros(n_features)
         self.bias = 0

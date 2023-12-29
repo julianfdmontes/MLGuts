@@ -51,7 +51,9 @@ class LogisticRegression():
             self.epochs_results[epoch+1]=self.evaluation(y,y_pred)
             if((epoch+1)%print_every_nth_epoch==0):
                 print("--------- epoch {} -------> {} = {} ----------".format((epoch+1), self.metric,round(self.epochs_results[epoch+1],4)))
-
+                # print('y_pred= ',y_pred)
+                # print('dw= ', dw)
+                # print('db= ', db)
             self.weights = self.weights - self.learning_rate*dw
             self.bias = self.bias - self.learning_rate*db
 

@@ -19,7 +19,7 @@ fig = plt.figure(figsize=(8,6))
 plt.scatter(X[:, 0], y, color = "b", marker = "o", s = 30)
 plt.show()
 
-reg = LogisticRegression(learning_rate=0.01, regularization=None, regularization_lambda=0.01)
+reg = LogisticRegression(learning_rate=0.01, regularization="L2", regularization_lambda=0.01)
 reg.fit(X_train,y_train)
 predictions = reg.predict(X_test)
 
