@@ -9,20 +9,29 @@ There is nothing wrong using all the good libraries avaiables on python framewor
 ### 1.1 Regressions
 
 #### 1.1.1 Linear Regression
+*Linear regression is first stone in our Machine Learning knowledge castle.*
 
 #### 1.1.2 Logistict Regression
+*Logistic regression is the door to Deep Learning.*
 
-### 1.2 Elemental
+
+### 1.2 Empiricals
 
 #### 1.2.1 KNN
+*The favourite algorithm for Euclides.*
 
 #### 1.2.2 Naive Bayes
+*The favourite algorithm for Bayes.*
 
 ### 1.3 Choising Trees
 
+
 #### 1.3.1 Decission Tree
+*Shuffling data.*
+Ejemplod e como hace binning vs regresion lineal.
 
 #### 1.3.2 Random Forest
+*Democracy as machine learning strategy.*
 
 ## Autores
 julianfernndezmontes@gmail.com
