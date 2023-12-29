@@ -6,9 +6,23 @@ There is nothing wrong using all the good libraries avaiables on python framewor
 
 ## 1. Algorithms
 
-### 1.1 Regression
+### 1.1 Regressions
 
-### 1.2 Regression
+#### 1.1.1 Linear Regression
+
+#### 1.1.2 Logistict Regression
+
+### 1.2 Elemental
+
+#### 1.2.1 KNN
+
+#### 1.2.2 Naive Bayes
+
+### 1.3 Choising Trees
+
+#### 1.3.1 Decission Tree
+
+#### 1.3.2 Random Forest
 
 ## Autores
 julianfernndezmontes@gmail.com
