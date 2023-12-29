@@ -30,6 +30,8 @@ There is nothing wrong using all the good libraries avaiables on python framewor
 *Shuffling data.*
 Ejemplod e como hace binning vs regresion lineal.
 
+https://github.com/julianfdmontes/MLGuts/blob/main/Decission%20Tree%20Algorithm%20Schema.pptx.jpg
+
 #### 1.3.2 Random Forest
 *Democracy as machine learning strategy.*
 
